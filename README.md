@@ -37,11 +37,7 @@ week's meeting of course need also prepare for presentation and moderation.
 
 ### Topics and Articles
 
-#### Semantics and Ontology
-
-- Amnon H. Eden, Raymond Turner, [Problems in the Ontology of Computer
-  Programs](http://www.eden-study.org/articles/2007/problems-ontology-programs_ao.pdf),
-  2007
+#### Meaning and Reference
 
 - Brian Cantwell Smith, [Linguistic And Computational
   Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
@@ -54,21 +50,37 @@ week's meeting of course need also prepare for presentation and moderation.
 - Brian Cantwell Smith, [Two Lessons of
   Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
 
+- Raymond Turner, [The Meaning of Programming
+  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf)
+
 - Raymond Turner, [Understanding Programming
-  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/understanding-programming-languages.pdf),
-  2007
+  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
+
+- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
+  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf)
 
 #### Cognitive Mechanisms
 
+- Tom Ormelrod, [Human Cognition and
+  Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
+
+- Garry L. White, [A Theory of the Relationships between Cognitive
+  Requirements of Computer Programming Languages and Programmers’ Cognitive
+  Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
+  2002
+
 #### Social Interactions
 
-#### Aesthetics of Programming Languages
+- Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
+  Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
+  2013
+
+#### Aesthetics
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
   Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
   1997
-  
 
 ## Resources
 
@@ -96,3 +108,4 @@ week's meeting of course need also prepare for presentation and moderation.
 
 - [The Philosophy of Computer
   Science](http://plato.stanford.edu/entries/computer-science/)
+
