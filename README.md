@@ -41,9 +41,12 @@ week's meeting of course need also prepare for presentation and moderation.
   Programs](http://www.eden-study.org/articles/2007/problems-ontology-programs_ao.pdf),
   2007
 
-- Biran Cantwell Smith, [Linguistic And Computational
+- Brian Cantwell Smith, [Linguistic And Computational
   Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
   1982
+
+- Brian Cantwell Smith, [The Limits of Correctness](https://www.student.cs.uwaterloo.ca/~cs492/11public_html/p18-smith.pdf),
+  1985
 
 - Raymond Turner, [Understanding Programming
   Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/understanding-programming-languages.pdf),
