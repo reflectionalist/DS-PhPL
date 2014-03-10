@@ -49,20 +49,16 @@ week's meeting of course need also prepare for presentation and moderation.
   Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/understanding-programming-languages.pdf),
   2007
 
-#### Reference
+#### Cognitive mechanisms
 
-#### Cognition
+#### Social interactions
 
-#### Sociology
-
-#### Aesthetics
+#### Beauty of programming
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
   Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
   1997
-
-#### Continental?
 
 ## Resources
 
