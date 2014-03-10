@@ -56,12 +56,15 @@ week's meeting of course need also prepare for presentation and moderation.
 
 #### Social Interactions
 
-#### Beauty of Programming
+#### Beauty and Morality of Programming
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
   Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
   1997
+
+- James H. Moor, ["Reason, Relativity, and Responsibility in Computer Ethics](https://www.blackwellpublishing.com/content/BPL_Images/Content_store/Sample_chapter/9781855548442/CEAC01.pdf),
+  
 
 ## Resources
 
