@@ -82,6 +82,12 @@ week's meeting of course need also prepare for presentation and moderation.
   Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
   1997
 
+- Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
+  and Code
+  Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
+
+------
+
 ## Resources
 
 - [Philosophy of Programming Languages](http://pcs.essex.ac.uk/pls.html)
