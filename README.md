@@ -20,7 +20,9 @@ Where?
 
 ### Prerequisites
 
-It is _recommended_ that you take a course on programming languages before
+It is _recommended_ that you take a course on programming languages (e.g.,
+[Programming Languages and
+Types](http://www.uni-marburg.de/fb12/ps/teaching/ws13/plt)) before
 participating in this discussion seminar.
 
 ### Organization
@@ -45,8 +47,12 @@ week's meeting of course need also prepare for presentation and moderation.
   Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
   1982
 
-- Brian Cantwell Smith, [The Limits of Correctness](https://www.student.cs.uwaterloo.ca/~cs492/11public_html/p18-smith.pdf),
+- Brian Cantwell Smith, [The Limits of
+  Correctness](https://www.student.cs.uwaterloo.ca/~cs492/11public_html/p18-smith.pdf),
   1985
+
+- Brian Cantwell Smith, [Two Lessons of
+  Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
 
 - Raymond Turner, [Understanding Programming
   Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/understanding-programming-languages.pdf),
