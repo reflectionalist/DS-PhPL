@@ -49,11 +49,11 @@ week's meeting of course need also prepare for presentation and moderation.
   Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/understanding-programming-languages.pdf),
   2007
 
-#### Cognitive mechanisms
+#### Cognitive Mechanisms
 
-#### Social interactions
+#### Social Interactions
 
-#### Beauty of programming
+#### Beauty of Programming
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
