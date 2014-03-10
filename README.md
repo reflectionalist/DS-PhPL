@@ -6,7 +6,7 @@ Lev Lamberov, Yi Dai, Klaus Ostermann
 
 ## Overview
 
-What?
+The course is devoted to the philosophy of programming languages. The philosophy of programming languages is an integral part of the philosophy of comupter science and is concerned with the philosophical questions that arise with the study of programming languages and principles of programming. The course is supposed to be an introduction to the main philosophical questions on the interpretation of computer programms, its otnological committments, cognitive mechanisms of dealing with programming languages, and the beauty of computer programms. The philosophy of programming languages helps us to better understand the internals of both programming and human mind.
 
 ## Syllabus
 
