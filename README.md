@@ -6,21 +6,22 @@ Yi Dai, Lev Lamberov, Klaus Ostermann
 
 ## Overview
 
-You have learned concepts and properties of programming languages.  Yet that
-is _not_ the whole picture.  Programming languages, as an artifct for
-describing information processing, are situated in a larger background that
-involves humans, machines and other real-world objects.  When looking at this
-bigger picture, a lot of interesting questions about them emerge: What is the
-nature of their meaning?  How do they relate to our mind?  How do they
-interact with the community or society?  What about esthetics and ethics?
-These questions are beyond the reach of computer science and require the
-attendance of philosophy.
+We have learned concepts and properties of programming languages.  Yet that is
+_not_ the whole picture.  Programming languages, as an artifct for describing
+information processing, are situated in a larger background that involves
+humans, machines and other real-world objects.  When looking at this bigger
+picture, a lot of interesting questions about them emerge: What is the nature
+of their meaning?  How do they reach out to the world and reach in to our
+mind?  How do they interact with their community?  What are esthetic and ethic
+considerations about them?  These questions are beyond the reach of computer
+science and require the attendance of philosophy.
 
-This discussion seminar will serve as a tour of philosophical investigations
-into programming languages.  During this tour, we will discuss their meaning
-and reference, their relation to our cognition, their social interaction,
-esthetics and ethics.  We wish, through this tour, to have a second view of
-programming languages but from a philosophical perspective.
+This discussion seminar is a journey through philosophical investigations into
+these questions raised about programming languages.  There may be no definite
+answers to them.  But it is our wish that, through this journey, we will gain
+not only a broader view of programming languages from a philosophical
+perspective but also the ability to consider and evaluate programming
+languages philosophically.
 
 ## Syllabus
 
@@ -53,6 +54,15 @@ week's meeting of course need also prepare for presentation and moderation.
 
 #### Meaning and Reference
 
+- Raymond Turner, [The Meaning of Programming
+  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf), 2009
+
+- Raymond Turner, [Understanding Programming
+  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
+
+- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
+  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf)
+
 - Brian Cantwell Smith, [Linguistic And Computational
   Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
   1982
@@ -63,15 +73,6 @@ week's meeting of course need also prepare for presentation and moderation.
 
 - Brian Cantwell Smith, [Two Lessons of
   Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
-
-- Raymond Turner, [The Meaning of Programming
-  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf)
-
-- Raymond Turner, [Understanding Programming
-  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
-
-- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
-  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf)
 
 #### Cognition
 
