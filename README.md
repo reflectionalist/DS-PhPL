@@ -2,21 +2,35 @@
 
 ## Organizers
 
-Lev Lamberov, Yi Dai, Klaus Ostermann
+Yi Dai, Lev Lamberov, Klaus Ostermann
 
 ## Overview
 
-The course is devoted to the philosophy of programming languages. The philosophy of programming languages is an integral part of the philosophy of computer science and is concerned with the philosophical questions that arise with the study of programming languages and principles of programming. The course is supposed to be an introduction to the main philosophical questions on the interpretation of computer programms and semantics of programming languages, their ontological committments, cognitive mechanisms of dealing with programming languages, and the beauty of computer programms. The philosophy of programming languages helps us to better understand the internals of both programming and human mind.
+You have learned concepts and properties of programming languages.  Yet that
+is _not_ the whole picture.  Programming languages, as an artifct for
+describing information processing, are situated in a larger background that
+involves humans, machines and other real-world objects.  When looking at this
+bigger picture, a lot of interesting questions about them emerge: What is the
+nature of their meaning?  How do they relate to our mind?  How do they
+interact with the community or society?  What about esthetics and ethics?
+These questions are beyond the reach of computer science and require the
+attendance of philosophy.
+
+This discussion seminar will serve as a tour of philosophical investigations
+into programming languages.  During this tour, we will discuss their meaning
+and reference, their relation to our cognition, their social interaction,
+esthetics and ethics.  We wish, through this tour, to have a second view of
+programming languages but from a philosophical perspective.
 
 ## Syllabus
 
 ### Meeting Times
 
-When?
+To be announced
 
 ### Meeting Places
 
-Where?
+To be announced
 
 ### Prerequisites
 
@@ -31,7 +45,7 @@ This is a weekly _discussion seminar_ on _philosophy of programming
 languages_.  In each week's meeting (except the first which will be a kickoff
 introduction), one of you will present _an_ article announced in the previous
 week and afterwards lead a discussion about it involving all attendants.  All
-of you are required to read the article and submit a _summary_ of it _one day
+of you are required to read the article and submit a _summary_ of it _24 hours
 before_ each week's meeting.  The one who volunteers to be the leader of that
 week's meeting of course need also prepare for presentation and moderation.
 
@@ -59,7 +73,7 @@ week's meeting of course need also prepare for presentation and moderation.
 - Raymond Turner, Amnon H. Eden, [Towards a Programming Language
   Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf)
 
-#### Cognitive Mechanisms
+#### Cognition
 
 - Tom Ormelrod, [Human Cognition and
   Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
@@ -69,13 +83,13 @@ week's meeting of course need also prepare for presentation and moderation.
   Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
   2002
 
-#### Social Interactions
+#### Social Interaction
 
 - Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
   Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
   2013
 
-#### Aesthetics
+#### Esthetics
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
@@ -85,6 +99,13 @@ week's meeting of course need also prepare for presentation and moderation.
 - Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
   and Code
   Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
+
+#### Ethics
+
+- Linda McIver, Damian Conway, [Seven Deadly Sins of Introductory Programming
+  Language
+  Design](http://www.csse.monash.edu.au/~damian/papers/PDF/SevenDeadlySins.pdf),
+  1992
 
 ------
 
