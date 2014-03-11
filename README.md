@@ -19,7 +19,7 @@ attendance of philosophy.
 This discussion seminar will serve as a tour of philosophical investigations
 into programming languages.  During this tour, we will discuss their meaning
 and reference, their relation to our cognition, their social interaction,
-esthetics and ethics.  We wish, through this tour, to have a second view of
+aesthetics and ethics.  We wish, through this tour, to have a second view of
 programming languages but from a philosophical perspective.
 
 ## Syllabus
