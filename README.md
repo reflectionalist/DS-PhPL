@@ -86,6 +86,10 @@ week's meeting of course need also prepare for presentation and moderation.
 
 #### Social Interaction
 
+- Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
+  Language
+  Adoption](http://www.cs.princeton.edu/~asrabkin/papers/onward12.pdf), 2012
+
 - Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
   Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
   2013
@@ -107,6 +111,11 @@ week's meeting of course need also prepare for presentation and moderation.
   Language
   Design](http://www.csse.monash.edu.au/~damian/papers/PDF/SevenDeadlySins.pdf),
   1992
+
+- Shane Markstrum, [Staking Claims: A History of Programming Language Design
+  Claims and
+  Evidence](http://ecs.victoria.ac.nz/foswiki/pub/Events/PLATEAU/2010Program/plateau10-markstrum.pdf),
+  2010
 
 ------
 
