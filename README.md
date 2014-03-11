@@ -38,7 +38,11 @@ To be announced
 It is _recommended_ that you take a course on programming languages (e.g.,
 [Programming Languages and
 Types](http://www.uni-marburg.de/fb12/ps/teaching/ws13/plt)) before
-participating in this discussion seminar.
+participating in this discussion seminar.  If you do not and are anyway
+interested, you are of course welcome.  But be aware that you may need to read
+some (not much) extra material in case you lack the background.  No
+philosophical background is required.  But if you have, it will of course
+help.
 
 ### Organization
 
