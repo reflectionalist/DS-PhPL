@@ -35,7 +35,7 @@ To be announced
 
 ### Prerequisites
 
-It is _recommended_ that you take a course on programming languages (e.g.,
+It is _strongly_ recommended that you take a course on programming languages (e.g.,
 [Programming Languages and
 Types](http://www.uni-marburg.de/fb12/ps/teaching/ws13/plt)) before
 participating in this discussion seminar.
