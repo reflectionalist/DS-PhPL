@@ -10,16 +10,16 @@ We have learned concepts and properties of programming languages.  Yet that is
 _not_ the whole picture.  Programming languages, as an artifct for describing
 information processing, are situated in a larger background that involves
 humans, machines and other real-world objects.  When looking at this bigger
-picture, a lot of interesting questions about them emerge: What is the nature
-of their meaning?  How do they reach out to the world and reach in to our
-mind?  How do they interact with their community?  What are esthetic and ethic
-considerations about them?  These questions are beyond the reach of computer
-science and require the attendance of philosophy.
+picture, a lot of interesting questions about them emerge: What is the
+_nature_ of their meaning?  How do they reach _out_ to the world and _in_ to
+our mind?  How do they interact with their community?  What are esthetic and
+ethic considerations about them?  These questions go beyond the reach of
+computer science and require the attendance of philosophy.
 
 This discussion seminar is a journey through philosophical investigations into
 these questions raised about programming languages.  There may be no definite
-answers to them.  But it is our wish that, through this journey, we will gain
-not only a broader view of programming languages from a philosophical
+answers to them.  However, it is our wish that, through this journey, we will
+gain not only a broader view of programming languages from a philosophical
 perspective but also the ability to consider and evaluate programming
 languages philosophically.
 
