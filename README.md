@@ -25,13 +25,13 @@ languages philosophically.
 
 ## Syllabus
 
-### Meeting Times
+### Meeting Time
 
-To be announced
+Every Wednesday, 13:00 ~ 15:00
 
-### Meeting Places
+### Meeting Place
 
-To be announced
+SR V D5
 
 ### Prerequisites
 
@@ -59,15 +59,6 @@ week's meeting of course need also prepare for presentation and moderation.
 
 #### Meaning and Reference
 
-- Raymond Turner, [The Meaning of Programming
-  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf), 2009
-
-- Raymond Turner, [Understanding Programming
-  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
-
-- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
-  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf)
-
 - Brian Cantwell Smith, [Linguistic And Computational
   Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
   1982
@@ -78,6 +69,16 @@ week's meeting of course need also prepare for presentation and moderation.
 
 - Brian Cantwell Smith, [Two Lessons of
   Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
+
+- Raymond Turner, [Understanding Programming
+  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
+
+- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
+  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf),
+  2007
+
+- Raymond Turner, [The Meaning of Programming
+  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf), 2009
 
 #### Cognition
 
