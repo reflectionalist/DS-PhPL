@@ -12,7 +12,7 @@ information processing, are situated in a larger background that involves
 humans, machines and other real-world objects.  When looking at this bigger
 picture, a lot of interesting questions about them emerge: What is the
 _nature_ of their meaning?  How do they reach _out_ to the world and _in_ to
-our mind?  How do they interact with their community?  What are esthetic and
+our mind?  How do they interact with their community?  What are aesthetic and
 ethic considerations about them?  These questions go beyond the reach of
 computer science and require the attendance of philosophy.
 
@@ -100,7 +100,7 @@ week's meeting of course need also prepare for presentation and moderation.
   Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
   2013
 
-#### Esthetics
+#### Aesthetics
 
 - Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
   Programming Language
