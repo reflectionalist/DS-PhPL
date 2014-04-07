@@ -47,13 +47,13 @@ help.
 
 ### Organization
 
-This is a weekly _discussion seminar_ on _philosophy of programming
-languages_.  In each week's meeting (except the first which will be a kickoff
-introduction), one of you will present _an_ article announced in the previous
-week and afterwards lead a discussion about it involving all attendants.  All
-of you are required to read the article and submit a _summary_ of it _24 hours
-before_ each week's meeting.  The one who volunteers to be the leader of that
-week's meeting of course need also prepare for presentation and moderation.
+This is a weekly _discussion seminar_.  In each week's meeting (except the
+first which will be a kickoff introduction), one of you will present _an_
+article announced in the previous week and afterwards lead a discussion about
+it involving all attendants.  All of you are required to read the article and
+submit a _summary_ of it _24 hours before_ each week's meeting.  The one who
+volunteers to be the leader of that week's meeting of course need also prepare
+for presentation and moderation.
 
 ### Topics and Articles
 
@@ -69,6 +69,9 @@ week's meeting of course need also prepare for presentation and moderation.
 
 - Brian Cantwell Smith, [Two Lessons of
   Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
+
+- Graham White, [The Philosophy of Computer
+  Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf), 2004
 
 - Raymond Turner, [Understanding Programming
   Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
@@ -113,10 +116,10 @@ week's meeting of course need also prepare for presentation and moderation.
 
 #### Ethics
 
-- Linda McIver, Damian Conway, [Seven Deadly Sins of Introductory Programming
+- (Linda McIver, Damian Conway, [Seven Deadly Sins of Introductory Programming
   Language
   Design](http://www.csse.monash.edu.au/~damian/papers/PDF/SevenDeadlySins.pdf),
-  1992
+  1992)
 
 - Shane Markstrum, [Staking Claims: A History of Programming Language Design
   Claims and
