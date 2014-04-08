@@ -155,3 +155,5 @@ for presentation and moderation.
 - [The Philosophy of Computer
   Science](http://plato.stanford.edu/entries/computer-science/)
 
+- [Plato and Object Oriented Programming](http://www.richardfarrar.com/plato-and-object-oriented-programming/)
+
