@@ -60,28 +60,31 @@ for presentation and moderation.
 #### Meaning and Reference
 
 - Brian Cantwell Smith, [Linguistic And Computational
-  Semantics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E4BA8A64DD1DE5D80A58ED3D3EB5992F?doi=10.1.1.14.8886&rep=rep1&type=pdf),
+  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
   1982
 
 - Brian Cantwell Smith, [The Limits of
-  Correctness](https://www.student.cs.uwaterloo.ca/~cs492/11public_html/p18-smith.pdf),
+  Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
   1985
 
 - Brian Cantwell Smith, [Two Lessons of
-  Logic](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1987.tb00206.x/pdf), 1987
+  Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
 - Graham White, [The Philosophy of Computer
-  Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf), 2004
+  Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
+  2004
 
 - Raymond Turner, [Understanding Programming
-  Languages](http://www.springerlink.com/content/h391647n75036h4k/), 2007
+  Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
+  2007
 
 - Raymond Turner, Amnon H. Eden, [Towards a Programming Language
-  Ontology](http://www.eden-study.org/articles/2007/towards-pl-ontology_dodigstuart.pdf),
+  Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
   2007
 
 - Raymond Turner, [The Meaning of Programming
-  Languages](http://cswww.essex.ac.uk/staff/turnr/Mypapers/v09n1_Computers.pdf), 2009
+  Languages](Articles/Raymond-Turner_TheMeaningOfProgrammingLanguages_2009.pdf),
+  2009
 
 #### Cognition
 
@@ -89,7 +92,7 @@ for presentation and moderation.
   Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
 
 - Garry L. White, [A Theory of the Relationships between Cognitive
-  Requirements of Computer Programming Languages and Programmers’ Cognitive
+  Requirements of Computer Programming Languages and Programmers' Cognitive
   Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
   2002
 
