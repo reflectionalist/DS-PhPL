@@ -27,11 +27,13 @@ languages philosophically.
 
 ### Meeting Time
 
-Every Wednesday, 13:00 ~ 15:00
+Please complete [this Doodle poll](http://doodle.com/skq2bfi3y663as7u) so that
+we can decide a regular weekly meeting time that will work for as many
+participants as possible.
 
 ### Meeting Place
 
-SR V D5
+To be announced
 
 ### Prerequisites
 
@@ -60,7 +62,7 @@ for presentation and moderation.
 #### Meaning and Reference
 
 - Brian Cantwell Smith, [Linguistic And Computational
-  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
+  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf?raw=true),
   1982
 
 - Brian Cantwell Smith, [The Limits of
