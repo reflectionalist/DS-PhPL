@@ -33,7 +33,7 @@ participants as possible.
 
 ### Meeting Place
 
-To be announced
+To be decided
 
 ### Prerequisites
 
@@ -56,6 +56,20 @@ it involving all attendants.  All of you are required to read the article and
 submit a _summary_ of it _24 hours before_ each week's meeting.  The one who
 volunteers to be the leader of that week's meeting of course need also prepare
 for presentation and moderation.
+
+### Schedule
+
+<dl>
+ <dt>2014-04-16</dt>
+ <dd>Kickoff meeting</dd>
+ <dt>2014-04-23</dt>
+ <dd>Meeting cancelled</dd>
+ <dt>2014-04-30 (to happen)</dt>
+ <dd>The article to discuss: Graham White, [The Philosophy of Computer
+     Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
+     2004
+ </dd>
+</dl>
 
 ### Topics and Articles
 
