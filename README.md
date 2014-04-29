@@ -27,9 +27,7 @@ languages philosophically.
 
 ### Meeting Time
 
-Please complete [this Doodle poll](http://doodle.com/skq2bfi3y663as7u) so that
-we can decide a regular weekly meeting time that will work for as many
-participants as possible.
+14:00~16:00 Every Wednesday
 
 ### Meeting Place
 
