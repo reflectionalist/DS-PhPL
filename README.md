@@ -31,7 +31,7 @@ languages philosophically.
 
 ### Meeting Place
 
-To be decided
+SR V 5D
 
 ### Prerequisites
 
