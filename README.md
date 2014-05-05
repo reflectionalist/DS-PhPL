@@ -76,18 +76,18 @@ for presentation and moderation.
 
 ### Topics and Articles
 
-#### Meaning and Reference
+#### Meaning
 
 - Brian Cantwell Smith, [Linguistic And Computational
   Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf?raw=true),
   1982
 
-- Brian Cantwell Smith, [The Limits of
-  Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
-  1985
+    - Brian Cantwell Smith, [The Limits of
+      Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
+      1985
 
-- Brian Cantwell Smith, [Two Lessons of
-  Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
+    - Brian Cantwell Smith, [Two Lessons of
+      Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
 - Graham White, [The Philosophy of Computer
   Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
@@ -97,13 +97,13 @@ for presentation and moderation.
   Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
   2007
 
-- Raymond Turner, Amnon H. Eden, [Towards a Programming Language
-  Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
-  2007
+    - Raymond Turner, Amnon H. Eden, [Towards a Programming Language
+      Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
+      2007
 
-- Raymond Turner, [The Meaning of Programming
-  Languages](Articles/Raymond-Turner_TheMeaningOfProgrammingLanguages_2009.pdf),
-  2009
+    - Raymond Turner, [The Meaning of Programming
+      Languages](Articles/Raymond-Turner_TheMeaningOfProgrammingLanguages_2009.pdf),
+      2009
 
 #### Cognition
 
@@ -137,11 +137,6 @@ for presentation and moderation.
   Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
 
 #### Ethics
-
-- (Linda McIver, Damian Conway, [Seven Deadly Sins of Introductory Programming
-  Language
-  Design](http://www.csse.monash.edu.au/~damian/papers/PDF/SevenDeadlySins.pdf),
-  1992)
 
 - Shane Markstrum, [Staking Claims: A History of Programming Language Design
   Claims and
