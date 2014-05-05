@@ -78,17 +78,6 @@ for presentation and moderation.
 
 #### Meaning
 
-- Brian Cantwell Smith, [Linguistic And Computational
-  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf?raw=true),
-  1982
-
-    - Brian Cantwell Smith, [The Limits of
-      Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
-      1985
-
-    - Brian Cantwell Smith, [Two Lessons of
-      Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
-
 - Graham White, [The Philosophy of Computer
   Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
   2004
@@ -104,6 +93,25 @@ for presentation and moderation.
     - Raymond Turner, [The Meaning of Programming
       Languages](Articles/Raymond-Turner_TheMeaningOfProgrammingLanguages_2009.pdf),
       2009
+
+- William J. Rapaport, [Implementation Is Semantic
+  Interpretation](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf),
+  1999
+
+    - William J. Rapaport, [Implementation Is Semantic
+      Interpretation: Further Thoughts](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation-FurtherThoughts_2005.pdf),
+      1999
+
+- Brian Cantwell Smith, [Linguistic And Computational
+  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf?raw=true),
+  1982
+
+    - Brian Cantwell Smith, [The Limits of
+      Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
+      1985
+
+    - Brian Cantwell Smith, [Two Lessons of
+      Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
 #### Cognition
 
