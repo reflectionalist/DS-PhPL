@@ -102,8 +102,8 @@ for presentation and moderation.
       Interpretation: Further Thoughts](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation-FurtherThoughts_2005.pdf),
       1999
 
-- Brian Cantwell Smith, [Linguistic And Computational
-  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf?raw=true),
+- Brian Cantwell Smith, [Linguistic and Computational
+  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
   1982
 
     - Brian Cantwell Smith, [The Limits of
