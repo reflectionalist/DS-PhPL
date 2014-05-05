@@ -63,14 +63,14 @@ for presentation and moderation.
  <dt>2014-04-23</dt>
  <dd>Meeting cancelled</dd>
  <dt>2014-04-30</dt>
- <dd>The article discussed: Graham White, [The Philosophy of Computer
-     Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
-     2004 (Discussion Leader: Lev)
+ <dd>The article discussed: Graham White, <a
+     href="https://github.com/plmday/DS-PhPL/blob/master/Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf">The
+     Philosophy of Computer Languages</a>, 2004 (Discussion Leader: Lev)
  </dd>
  <dt>2014-05-07 (to happen)</dt>
- <dd>The article to discuss: Raymond Turner, [Understanding Programming
-  Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
-  2007 (Discussion Leader: Paolo)
+ <dd>The article to discuss: Raymond Turner, <a
+     href="https://github.com/plmday/DS-PhPL/blob/master/Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf">Understanding
+     Programming Languages</a>, 2007 (Discussion Leader: Paolo)
  </dd>
 </dl>
 
