@@ -62,10 +62,15 @@ for presentation and moderation.
  <dd>Kickoff meeting</dd>
  <dt>2014-04-23</dt>
  <dd>Meeting cancelled</dd>
- <dt>2014-04-30 (to happen)</dt>
- <dd>The article to discuss: Graham White, [The Philosophy of Computer
+ <dt>2014-04-30</dt>
+ <dd>The article discussed: Graham White, [The Philosophy of Computer
      Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
-     2004
+     2004 (Discussion Leader: Lev)
+ </dd>
+ <dt>2014-05-07 (to happen)</dt>
+ <dd>The article to discuss: Raymond Turner, [Understanding Programming
+  Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
+  2007 (Discussion Leader: Paolo)
  </dd>
 </dl>
 
