@@ -82,13 +82,13 @@ for presentation and moderation.
 
 #### Meaning
 
-- Graham White, [The Philosophy of Computer
-  Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
-  2004
+-   Graham White, [The Philosophy of Computer
+    Languages](Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf),
+    2004
 
-- Raymond Turner, [Understanding Programming
-  Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
-  2007
+-   Raymond Turner, [Understanding Programming
+    Languages](Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf),
+    2007
 
     - Raymond Turner, Amnon H. Eden, [Towards a Programming Language
       Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
@@ -98,17 +98,17 @@ for presentation and moderation.
       Languages](Articles/Raymond-Turner_TheMeaningOfProgrammingLanguages_2009.pdf),
       2009
 
-- William J. Rapaport, [Implementation Is Semantic
-  Interpretation](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf),
-  1999
+-   William J. Rapaport, [Implementation Is Semantic
+    Interpretation](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf),
+    1999
 
     - William J. Rapaport, [Implementation Is Semantic
       Interpretation: Further Thoughts](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation-FurtherThoughts_2005.pdf),
       1999
 
-- Brian Cantwell Smith, [Linguistic and Computational
-  Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
-  1982
+-   Brian Cantwell Smith, [Linguistic and Computational
+    Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
+    1982
 
     - Brian Cantwell Smith, [The Limits of
       Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
@@ -119,70 +119,71 @@ for presentation and moderation.
 
 #### Cognition
 
-- Tom Ormelrod, [Human Cognition and
-  Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
+-   Tom Ormelrod, [Human Cognition and
+    Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
 
-- Garry L. White, [A Theory of the Relationships between Cognitive
-  Requirements of Computer Programming Languages and Programmers' Cognitive
-  Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
-  2002
+-   Garry L. White, [A Theory of the Relationships between Cognitive
+    Requirements of Computer Programming Languages and Programmers' Cognitive
+    Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
+    2002
 
 #### Social Interaction
 
-- Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
-  Language
-  Adoption](http://www.cs.princeton.edu/~asrabkin/papers/onward12.pdf), 2012
+-   Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
+    Language
+    Adoption](http://www.cs.princeton.edu/~asrabkin/papers/onward12.pdf), 2012
 
-- Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
-  Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
-  2013
+-   Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
+    Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
+    2013
 
 #### Aesthetics
 
-- Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
-  Programming Language
-  Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
-  1997
+-   Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
+    Programming Language
+    Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
+    1997
 
-- Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
-  and Code
-  Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
+-   Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
+    and Code
+    Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
 
 #### Ethics
 
-- Shane Markstrum, [Staking Claims: A History of Programming Language Design
-  Claims and
-  Evidence](http://ecs.victoria.ac.nz/foswiki/pub/Events/PLATEAU/2010Program/plateau10-markstrum.pdf),
-  2010
+-   Shane Markstrum, [Staking Claims: A History of Programming Language Design
+    Claims and
+    Evidence](http://ecs.victoria.ac.nz/foswiki/pub/Events/PLATEAU/2010Program/plateau10-markstrum.pdf),
+    2010
 
 ------
 
 ## Resources
 
-- [Philosophy of Programming Languages](http://pcs.essex.ac.uk/pls.html)
+-   [Philosophy of Programming Languages](http://pcs.essex.ac.uk/pls.html)
 
-- [Classic Papers in Programming Languages and
-  Logic](http://www.cs.cmu.edu/~crary/819-f09/)
+-   [Classic Papers in Programming Languages and
+    Logic](http://www.cs.cmu.edu/~crary/819-f09/)
 
-- [Topics in Programming Languages: A Philosophical Analysis Through the Case
-  of
-  Prolog](http://www.chartridgebooksoxford.com/index.php/current-titles?id=40)
+-   [Topics in Programming Languages: A Philosophical Analysis Through the Case
+    of
+    Prolog](http://www.chartridgebooksoxford.com/index.php/current-titles?id=40)
 
-- [If Philosophers Were
-  Programmers](http://developeronline.blogspot.de/2009/04/if-philosophers-were-programmers.html)
+-   [If Philosophers Were
+    Programmers](http://developeronline.blogspot.de/2009/04/if-philosophers-were-programmers.html)
 
-- [Ancient Philosophy And Programming
-  Languages](http://www.perlmonks.org/?node_id=349593)
+-   [Ancient Philosophy And Programming
+    Languages](http://www.perlmonks.org/?node_id=349593)
 
-- [Existential Programming](http://www.existentialprogramming.com/)
+-   [Existential Programming](http://www.existentialprogramming.com/)
 
-- [How the Ancient Greeks Invented
-  Programming](http://www.infoq.com/presentations/Philosophy-Programming)
+-   [How the Ancient Greeks Invented
+    Programming](http://www.infoq.com/presentations/Philosophy-Programming)
 
-- [Philosophy of Computer Science](http://pcs.essex.ac.uk/index.html)
+-   [Philosophy of Computer Science](http://pcs.essex.ac.uk/index.html)
 
-- [The Philosophy of Computer
-  Science](http://plato.stanford.edu/entries/computer-science/)
+-   [The Philosophy of Computer
+    Science](http://plato.stanford.edu/entries/computer-science/)
 
-- [Plato and Object Oriented Programming](http://www.richardfarrar.com/plato-and-object-oriented-programming/)
+-   [Plato and Object Oriented
+    Programming](http://www.richardfarrar.com/plato-and-object-oriented-programming/)
 
