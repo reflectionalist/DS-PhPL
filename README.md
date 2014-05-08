@@ -58,20 +58,24 @@ for presentation and moderation.
 ### Schedule
 
 <dl>
- <dt>2014-04-16</dt>
- <dd>Kickoff meeting</dd>
- <dt>2014-04-23</dt>
- <dd>Meeting cancelled</dd>
- <dt>2014-04-30</dt>
- <dd>The article discussed: Graham White, <a
-     href="https://github.com/plmday/DS-PhPL/blob/master/Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf">The
-     Philosophy of Computer Languages</a>, 2004 (Discussion Leader: Lev)
- </dd>
- <dt>2014-05-07 (to happen)</dt>
- <dd>The article to discuss: Raymond Turner, <a
-     href="https://github.com/plmday/DS-PhPL/blob/master/Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf">Understanding
-     Programming Languages</a>, 2007 (Discussion Leader: Paolo)
- </dd>
+<dt>2014-04-16</dt>
+<dd><p>Kickoff meeting</p>
+</dd>
+<dt>2014-04-23</dt>
+<dd><p>Meeting cancelled</p>
+</dd>
+<dt>2014-04-30</dt>
+<dd><p>The article discussed: Graham White, <a href="Articles/Graham-White_ThePhilosophyOfComputerLanguages_2004.pdf">The Philosophy of Computer Languages</a>, 2004</p>
+<p>Discussion Leader: Lev</p>
+</dd>
+<dt>2014-05-07</dt>
+<dd><p>The article discussed: Raymond Turner, <a href="Articles/Raymond-Turner_UnderstandingProgrammingLanguages_2007.pdf">Understanding Programming Languages</a>, 2007</p>
+<p>Discussion Leader: Paolo</p>
+</dd>
+<dt>2014-05-14 (to happen)</dt>
+<dd><p>The artitle to discuss: William J. Rapaport, <a href="Articles/Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf">Implementation Is Semantic Interpretation</a>, 1999</p>
+<p>Discussion Leader: Felix</p>
+</dd>
 </dl>
 
 ### Topics and Articles
