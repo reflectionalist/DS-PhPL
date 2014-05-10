@@ -187,3 +187,6 @@ for presentation and moderation.
 -   [Plato and Object Oriented
     Programming](http://www.richardfarrar.com/plato-and-object-oriented-programming/)
 
+-   [A Philosophy of Programing
+    Languages](http://blog.mjburgess.co.uk/2013/05/a-philosophy-of-programing-languages.html)
+
