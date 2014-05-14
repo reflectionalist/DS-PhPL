@@ -22,10 +22,18 @@
      
     Discussion Leader: Paolo
 
-2014-05-14 (to happen)
+2014-05-14
 
-:   The artitle to discuss: William J. Rapaport, [Implementation Is Semantic
+:   The artitle discussed: William J. Rapaport, [Implementation Is Semantic
     Interpretation](Articles/Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf),
     1999
   
     Discussion Leader: Felix
+
+2014-05-21 (to happen)
+
+:   The artitle to discuss: Raymond Turner, [Towards a Programming Language
+    Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
+    2007
+
+    Discussion Leader: Willi
