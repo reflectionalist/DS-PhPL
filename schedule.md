@@ -47,3 +47,5 @@
 :   The article to discuss: Brian C. Smith, [Linguistic and Computational
     Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
     1982
+
+    Discussion Leader: Yi

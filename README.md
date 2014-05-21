@@ -85,6 +85,7 @@ for presentation and moderation.
 </dd>
 <dt>2014-06-04 (to happen)</dt>
 <dd><p>The article to discuss: Brian C. Smith, <a href="Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf">Linguistic and Computational Semantics</a>, 1982</p>
+<p>Discussion Leader: Yi</p>
 </dd>
 </dl>
 
