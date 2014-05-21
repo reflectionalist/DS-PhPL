@@ -30,10 +30,20 @@
   
     Discussion Leader: Felix
 
-2014-05-21 (to happen)
+2014-05-21
 
-:   The artitle to discuss: Raymond Turner, [Towards a Programming Language
+:   The artitle discussed: Raymond Turner, [Towards a Programming Language
     Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
     2007
 
     Discussion Leader: Willi
+
+2014-05-28
+
+:   Meeting cancelled
+
+2014-06-04 (to happen)
+
+:   The article to discuss: Brian C. Smith, [Linguistic and Computational
+    Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
+    1982

@@ -76,9 +76,15 @@ for presentation and moderation.
 <dd><p>The artitle discussed: William J. Rapaport, <a href="Articles/Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation_1999.pdf">Implementation Is Semantic Interpretation</a>, 1999</p>
 <p>Discussion Leader: Felix</p>
 </dd>
-<dt>2014-05-21 (to happen)</dt>
-<dd><p>The artitle to discuss: Raymond Turner, <a href="Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf">Towards a Programming Language Ontology</a>, 2007</p>
+<dt>2014-05-21</dt>
+<dd><p>The artitle discussed: Raymond Turner, <a href="Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf">Towards a Programming Language Ontology</a>, 2007</p>
 <p>Discussion Leader: Willi</p>
+</dd>
+<dt>2014-05-28</dt>
+<dd><p>Meeting cancelled</p>
+</dd>
+<dt>2014-06-04 (to happen)</dt>
+<dd><p>The article to discuss: Brian C. Smith, <a href="Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf">Linguistic and Computational Semantics</a>, 1982</p>
 </dd>
 </dl>
 
