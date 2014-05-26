@@ -122,13 +122,6 @@ for presentation and moderation.
     Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
     1982
 
-    -   Brian Cantwell Smith, [The Limits of
-        Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
-        1985
-
-    -   Brian Cantwell Smith, [Two Lessons of
-        Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
-
 #### Cognition
 
 -   Tom Ormelrod, [Human Cognition and
@@ -139,7 +132,7 @@ for presentation and moderation.
     Characteristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.4257&rep=rep1&type=pdf),
     2002
 
-#### Social Interaction
+#### Sociology
 
 -   Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
     Language
@@ -162,10 +155,19 @@ for presentation and moderation.
 
 #### Ethics
 
+-   Brian Cantwell Smith, [The Limits of
+    Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
+    1985
+
 -   Shane Markstrum, [Staking Claims: A History of Programming Language Design
     Claims and
     Evidence](http://ecs.victoria.ac.nz/foswiki/pub/Events/PLATEAU/2010Program/plateau10-markstrum.pdf),
     2010
+
+#### Others
+
+-   Brian Cantwell Smith, [Two Lessons of
+    Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
 ------
 
