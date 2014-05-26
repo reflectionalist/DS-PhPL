@@ -7,7 +7,7 @@ Yi Dai, Lev Lamberov, Klaus Ostermann
 ## Overview
 
 We have learned concepts and properties of programming languages.  Yet that is
-_not_ the whole picture.  Programming languages, as an artifct for describing
+_not_ the whole picture.  Programming languages, as artifacts for describing
 information processing, are situated in a larger background that involves
 humans, machines and other real-world objects.  When looking at this bigger
 picture, a lot of interesting questions about them emerge: What is the
