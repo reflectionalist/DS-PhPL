@@ -83,8 +83,12 @@ for presentation and moderation.
 <dt>2014-05-28</dt>
 <dd><p>Meeting cancelled</p>
 </dd>
-<dt>2014-06-04 (to happen)</dt>
-<dd><p>The article to discuss: Brian C. Smith, <a href="Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf">Linguistic and Computational Semantics</a>, 1982</p>
+<dt>2014-06-04</dt>
+<dd><p>The article discussed: Brian C. Smith, <a href="Articles/Brian-C-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf">Linguistic and Computational Semantics</a>, 1982</p>
+<p>Discussion Leader: Yi</p>
+</dd>
+<dt>2014-06-11 (to happen)</dt>
+<dd><p>The article to discuss: William J. Rapaport, <a href="Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf">Understanding Understanding: Syntactic Semantics and Computational Cognition</a>, 1995</p>
 <p>Discussion Leader: Yi</p>
 </dd>
 </dl>
@@ -118,11 +122,20 @@ for presentation and moderation.
         Thoughts](Articles/William-J-Rapaport_ImplementationIsSemanticInterpretation-FurtherThoughts_2005.pdf),
         2005
 
--   Brian Cantwell Smith, [Linguistic and Computational
-    Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
+-   Brian C. Smith, [Linguistic and Computational
+    Semantics](Articles/Brian-C-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
     1982
 
 #### Cognition
+
+-   William J. Rapaport, [Understanding Understanding:
+    Syntactic Semantics and Computational
+    Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf),
+    1995
+
+    -   William J. Rapaport, [Understanding Understanding: Semantics,
+        Computation, and
+        Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SemanticsComputationAndCognition_1996.pdf)
 
 -   Tom Ormelrod, [Human Cognition and
     Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
@@ -155,8 +168,8 @@ for presentation and moderation.
 
 #### Ethics
 
--   Brian Cantwell Smith, [The Limits of
-    Correctness](Articles/Brian-Cantwell-Smith_TheLimitsOfCorrectness_1985.pdf),
+-   Brian C. Smith, [The Limits of
+    Correctness](Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf),
     1985
 
 -   Shane Markstrum, [Staking Claims: A History of Programming Language Design
@@ -166,8 +179,8 @@ for presentation and moderation.
 
 #### Others
 
--   Brian Cantwell Smith, [Two Lessons of
-    Logic](Articles/Brian-Cantwell-Smith_TwoLessonsOfLogic_1987.pdf), 1987
+-   Brian C. Smith, [Two Lessons of
+    Logic](Articles/Brian-C-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
 ------
 

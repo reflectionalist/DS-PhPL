@@ -42,10 +42,19 @@
 
 :   Meeting cancelled
 
-2014-06-04 (to happen)
+2014-06-04
 
-:   The article to discuss: Brian C. Smith, [Linguistic and Computational
-    Semantics](Articles/Brian-Cantwell-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
+:   The article discussed: Brian C. Smith, [Linguistic and Computational
+    Semantics](Articles/Brian-C-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
     1982
+
+    Discussion Leader: Yi
+
+2014-06-11 (to happen)
+
+:   The article to discuss: William J. Rapaport, [Understanding Understanding:
+    Syntactic Semantics and Computational
+    Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf),
+    1995
 
     Discussion Leader: Yi
