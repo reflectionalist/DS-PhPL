@@ -126,6 +126,13 @@ for presentation and moderation.
     Semantics](Articles/Brian-C-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf),
     1982
 
+    -   Brian C. Smith, [The Correspondence
+        Continuum](Articles/Brian-C-Smith_TheCorrespondenceContinuum_1987.pdf),
+        1987
+
+    -   Brian C. Smith, [The Semantics of
+        Clocks](Articles/Brian-C-Smith_TheSemanticsOfClocks_1988.pdf), 1988
+
 #### Cognition
 
 -   William J. Rapaport, [Understanding Understanding:
