@@ -61,8 +61,8 @@
 
 2014-06-18 (to happen)
 
-:   Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
-    Language
+:   The article to discuss: Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT:
+    Principles for Programming Language
     Adoption](Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf),
     2012
 

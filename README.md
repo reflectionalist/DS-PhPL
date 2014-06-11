@@ -92,7 +92,7 @@ for presentation and moderation.
 <p>Discussion Leader: Yi</p>
 </dd>
 <dt>2014-06-18 (to happen)</dt>
-<dd><p>Leo A. Meyerovich, Ariel Rabkin, <a href="Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf">Socio-PLT: Principles for Programming Language Adoption</a>, 2012</p>
+<dd><p>The article to discuss: Leo A. Meyerovich, Ariel Rabkin, <a href="Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf">Socio-PLT: Principles for Programming Language Adoption</a>, 2012</p>
 <p>Discussion Leader: Willi</p>
 </dd>
 </dl>
