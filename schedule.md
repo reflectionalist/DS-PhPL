@@ -50,11 +50,20 @@
 
     Discussion Leader: Yi
 
-2014-06-11 (to happen)
+2014-06-11
 
-:   The article to discuss: William J. Rapaport, [Understanding Understanding:
+:   The article discussed: William J. Rapaport, [Understanding Understanding:
     Syntactic Semantics and Computational
     Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf),
     1995
 
     Discussion Leader: Yi
+
+2014-06-18 (to happen)
+
+:   Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
+    Language
+    Adoption](Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf),
+    2012
+
+    Discussion Leader: Willi

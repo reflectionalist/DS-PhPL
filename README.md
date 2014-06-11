@@ -87,9 +87,13 @@ for presentation and moderation.
 <dd><p>The article discussed: Brian C. Smith, <a href="Articles/Brian-C-Smith_LinguisticAndComputationalSemantics.pdf_1982.pdf">Linguistic and Computational Semantics</a>, 1982</p>
 <p>Discussion Leader: Yi</p>
 </dd>
-<dt>2014-06-11 (to happen)</dt>
-<dd><p>The article to discuss: William J. Rapaport, <a href="Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf">Understanding Understanding: Syntactic Semantics and Computational Cognition</a>, 1995</p>
+<dt>2014-06-11</dt>
+<dd><p>The article discussed: William J. Rapaport, <a href="Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf">Understanding Understanding: Syntactic Semantics and Computational Cognition</a>, 1995</p>
 <p>Discussion Leader: Yi</p>
+</dd>
+<dt>2014-06-18 (to happen)</dt>
+<dd><p>Leo A. Meyerovich, Ariel Rabkin, <a href="Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf">Socio-PLT: Principles for Programming Language Adoption</a>, 2012</p>
+<p>Discussion Leader: Willi</p>
 </dd>
 </dl>
 
@@ -142,10 +146,12 @@ for presentation and moderation.
 
     -   William J. Rapaport, [Understanding Understanding: Semantics,
         Computation, and
-        Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SemanticsComputationAndCognition_1996.pdf)
+        Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SemanticsComputationAndCognition_1996.pdf),
+        1996
 
 -   Tom Ormelrod, [Human Cognition and
-    Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf), 1990
+    Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf),
+    1990
 
 -   Garry L. White, [A Theory of the Relationships between Cognitive
     Requirements of Computer Programming Languages and Programmers' Cognitive
@@ -156,11 +162,13 @@ for presentation and moderation.
 
 -   Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT: Principles for Programming
     Language
-    Adoption](http://www.cs.princeton.edu/~asrabkin/papers/onward12.pdf), 2012
+    Adoption](Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf),
+    2012
 
--   Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming Language
-    Adoption](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/adoptquant.pdf),
-    2013
+    -   Leo A. Meyerovich, Ariel Rabkin, [Empirical Analysis of Programming
+        Language
+        Adoption](Articles/Leo-A-Meyerovich_Ariel-Rabkin_EmpiricalAnalysisOfProgrammingLanguageAdoption_2013.pdf),
+        2013
 
 #### Aesthetics
 
