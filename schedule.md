@@ -59,11 +59,20 @@
 
     Discussion Leader: Yi
 
-2014-06-18 (to happen)
+2014-06-18
 
-:   The article to discuss: Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT:
+:   The article discussed: Leo A. Meyerovich, Ariel Rabkin, [Socio-PLT:
     Principles for Programming Language
     Adoption](Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf),
     2012
 
     Discussion Leader: Willi
+
+2014-06-25 (to happen)
+
+:   The article to discuss: Shane Markstrum, [Staking Claims: A History of
+    Programming Language Design Claims and
+    Evidence](Articles/Shane-Markstrum_StakingClaims_AHistoryOfProgrammingLanguageDesignClaimsAndEvidence_2010.pdf),
+    2010
+
+    Discussion Leader: Felix
