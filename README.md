@@ -180,6 +180,9 @@ for presentation and moderation.
     Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
     1997
 
+-   Lambert Meertens, [The Design of Elegant
+    Languages](Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf), 1993
+
 -   Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
     and Code
     Aesthetics](http://eprints.cscsarchive.org/144/1/10.1.1.94.3707.pdf), 2005
@@ -199,6 +202,11 @@ for presentation and moderation.
 
 -   Brian C. Smith, [Two Lessons of
     Logic](Articles/Brian-C-Smith_TwoLessonsOfLogic_1987.pdf), 1987
+
+-   Tomas Petricek, [What can Programming Language Research Learn from the
+    Philosophy of
+    Science?](Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
+    2014
 
 ------
 
