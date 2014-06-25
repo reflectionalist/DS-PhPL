@@ -203,7 +203,7 @@ for presentation and moderation.
 -   Brian C. Smith, [Two Lessons of
     Logic](Articles/Brian-C-Smith_TwoLessonsOfLogic_1987.pdf), 1987
 
--   Tomas Petricek, [What can Programming Language Research Learn from the
+-   Tomas Petricek, [What Can Programming Language Research Learn from the
     Philosophy of
     Science?](Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
     2014
