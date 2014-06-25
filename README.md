@@ -177,7 +177,7 @@ for presentation and moderation.
 
 -   Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
     Programming Language
-    Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.7855&rep=rep1&type=pdf),
+    Design](Articles/Bruce-J-MacLennan_WhoCaresAboutElegance_TheRoleOfAestheticsInProgrammingLanguageDesign_1997.pdf),
     1997
 
 -   Lambert Meertens, [The Design of Elegant
