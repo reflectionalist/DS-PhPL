@@ -145,6 +145,10 @@ for presentation and moderation.
     -   Brian C. Smith, [The Semantics of
         Clocks](Articles/Brian-C-Smith_TheSemanticsOfClocks_1988.pdf), 1988
 
+-   Enrico Leonhardt, Simone Röttger, [Semantics in Philosophy and Computer
+    Science](http://www-st.inf.tu-dresden.de/files/teaching/ws06/HS/Leonhardt-Paper-Introduction.pdf)
+    2006
+
 #### Cognition
 
 -   Tom Ormelrod, [Human Cognition and
