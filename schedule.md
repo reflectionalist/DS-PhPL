@@ -68,11 +68,27 @@
 
     Discussion Leader: Willi
 
-2014-06-25 (to happen)
+2014-06-25
 
-:   The article to discuss: Shane Markstrum, [Staking Claims: A History of
+:   The article discussed: Shane Markstrum, [Staking Claims: A History of
     Programming Language Design Claims and
     Evidence](Articles/Shane-Markstrum_StakingClaims_AHistoryOfProgrammingLanguageDesignClaimsAndEvidence_2010.pdf),
     2010
 
     Discussion Leader: Felix
+
+2014-07-02 (to happen)
+
+:   The articles to discuss:
+
+    -   Lambert Meertens, [The Design of Elegant
+        Languages](Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf), 1993
+
+        Discussion Leader: Felix
+
+    -   Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
+        Programming Language
+        Design](Articles/Bruce-J-MacLennan_WhoCaresAboutElegance_TheRoleOfAestheticsInProgrammingLanguageDesign_1997.pdf),
+        1997
+ 
+        Discussion Leader: Willi

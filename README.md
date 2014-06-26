@@ -94,9 +94,14 @@ for presentation and moderation.
 <dd><p>The article discussed: Leo A. Meyerovich, Ariel Rabkin, <a href="Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf">Socio-PLT: Principles for Programming Language Adoption</a>, 2012</p>
 <p>Discussion Leader: Willi</p>
 </dd>
-<dt>2014-06-25 (to happen)</dt>
-<dd><p>The article to discuss: Shane Markstrum, <a href="Articles/Shane-Markstrum_StakingClaims_AHistoryOfProgrammingLanguageDesignClaimsAndEvidence_2010.pdf">Staking Claims: A History of Programming Language Design Claims and Evidence</a>, 2010</p>
-<p>Discussion Leader: Felix</p>
+<dt>2014-07-02 (to happen)</dt>
+<dd><p>The articles to discuss:</p>
+<ul>
+<li><p>Lambert Meertens, <a href="Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf">The Design of Elegant Languages</a>, 1993</p>
+<p>Discussion Leader: Felix</p></li>
+<li><p>Bruce J. MacLennan, <a href="Articles/Bruce-J-MacLennan_WhoCaresAboutElegance_TheRoleOfAestheticsInProgrammingLanguageDesign_1997.pdf">&quot;Who Cares About Elegance?&quot; The Role of Aesthetics in Programming Language Design</a>, 1997</p>
+<p>Discussion Leader: Willi</p></li>
+</ul>
 </dd>
 </dl>
 
@@ -142,6 +147,10 @@ for presentation and moderation.
 
 #### Cognition
 
+-   Tom Ormelrod, [Human Cognition and
+    Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf),
+    1990
+
 -   William J. Rapaport, [Understanding Understanding:
     Syntactic Semantics and Computational
     Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SyntacticSemanticsAndcomputationalCognition_1995.pdf),
@@ -151,10 +160,6 @@ for presentation and moderation.
         Computation, and
         Cognition](Articles/William-J-Rapaport_UnderstandingUnderstanding_SemanticsComputationAndCognition_1996.pdf),
         1996
-
--   Tom Ormelrod, [Human Cognition and
-    Programming](https://www.cl.cam.ac.uk/teaching/1011/R201/ppig-book/ch1-4.pdf),
-    1990
 
 -   Garry L. White, [A Theory of the Relationships between Cognitive
     Requirements of Computer Programming Languages and Programmers' Cognitive
@@ -175,13 +180,13 @@ for presentation and moderation.
 
 #### Aesthetics
 
+-   Lambert Meertens, [The Design of Elegant
+    Languages](Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf), 1993
+
 -   Bruce J. MacLennan, ["Who Cares About Elegance?" The Role of Aesthetics in
     Programming Language
     Design](Articles/Bruce-J-MacLennan_WhoCaresAboutElegance_TheRoleOfAestheticsInProgrammingLanguageDesign_1997.pdf),
     1997
-
--   Lambert Meertens, [The Design of Elegant
-    Languages](Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf), 1993
 
 -   Michael Mateas, Nick Montfort, [A Box, Darkly: Obfuscation, Weird Languages,
     and Code
