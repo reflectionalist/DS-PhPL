@@ -92,3 +92,19 @@
         1997
  
         Discussion Leader: Willi
+
+2014-07-09 (to happen)
+
+:   The article to discuss: Brian C. Smith, [The Limits of
+    Correctness](Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf), 1985
+
+    Discussion Leader (to be determined)
+
+2014-07-16 (to happen)
+
+:   The article to discuss: Tomas Petricek, [What Can Programming Language
+    Research Learn from the Philosophy of
+    Science](Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
+    2014
+
+    Discussion Leader (to be determined)
