@@ -104,7 +104,7 @@
 
 :   The article to discuss: Tomas Petricek, [What Can Programming Language
     Research Learn from the Philosophy of
-    Science](Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
+    Science](Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
     2014
 
     Discussion Leader (to be determined)

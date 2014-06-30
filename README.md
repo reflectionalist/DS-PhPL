@@ -108,7 +108,7 @@ for presentation and moderation.
 <p>Discussion Leader (to be determined)</p>
 </dd>
 <dt>2014-07-16 (to happen)</dt>
-<dd><p>The article to discuss: Tomas Petricek, <a href="Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf">What Can Programming Language Research Learn from the Philosophy of Science</a>, 2014</p>
+<dd><p>The article to discuss: Tomas Petricek, <a href="Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf">What Can Programming Language Research Learn from the Philosophy of Science</a>, 2014</p>
 <p>Discussion Leader (to be determined)</p>
 </dd>
 </dl>
