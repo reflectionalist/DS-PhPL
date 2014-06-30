@@ -105,11 +105,11 @@ for presentation and moderation.
 </dd>
 <dt>2014-07-09 (to happen)</dt>
 <dd><p>The article to discuss: Brian C. Smith, <a href="Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf">The Limits of Correctness</a>, 1985</p>
-<p>Discussion Leader (to be determined)</p>
+<p>Discussion Leader: Yi</p>
 </dd>
 <dt>2014-07-16 (to happen)</dt>
 <dd><p>The article to discuss: Tomas Petricek, <a href="Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf">What Can Programming Language Research Learn from the Philosophy of Science</a>, 2014</p>
-<p>Discussion Leader (to be determined)</p>
+<p>Discussion Leader: Lev</p>
 </dd>
 </dl>
 

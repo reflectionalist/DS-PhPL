@@ -98,7 +98,7 @@
 :   The article to discuss: Brian C. Smith, [The Limits of
     Correctness](Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf), 1985
 
-    Discussion Leader (to be determined)
+    Discussion Leader: Yi
 
 2014-07-16 (to happen)
 
@@ -107,4 +107,4 @@
     Science](Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
     2014
 
-    Discussion Leader (to be determined)
+    Discussion Leader: Lev
