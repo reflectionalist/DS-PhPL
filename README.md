@@ -94,8 +94,8 @@ for presentation and moderation.
 <dd><p>The article discussed: Leo A. Meyerovich, Ariel Rabkin, <a href="Articles/Leo-A-Meyerovich_Ariel-Rabkin_Socio-PLT_PrinciplesForProgrammingLanguageAdoption_2012.pdf">Socio-PLT: Principles for Programming Language Adoption</a>, 2012</p>
 <p>Discussion Leader: Willi</p>
 </dd>
-<dt>2014-07-02 (to happen)</dt>
-<dd><p>The articles to discuss:</p>
+<dt>2014-07-02</dt>
+<dd><p>The articles discussed:</p>
 <ul>
 <li><p>Lambert Meertens, <a href="Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf">The Design of Elegant Languages</a>, 1993</p>
 <p>Discussion Leader: Felix</p></li>

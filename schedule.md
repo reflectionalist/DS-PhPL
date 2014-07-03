@@ -77,9 +77,9 @@
 
     Discussion Leader: Felix
 
-2014-07-02 (to happen)
+2014-07-02
 
-:   The articles to discuss:
+:   The articles discussed:
 
     -   Lambert Meertens, [The Design of Elegant
         Languages](Articles/Lambert-Meertens_TheDesignOfElegantLanguages_1993.pdf), 1993
