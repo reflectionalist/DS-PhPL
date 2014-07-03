@@ -1,9 +1,11 @@
 MDC = pandoc
 
-all: html
+all: readme schedule
 
-html: ; \
-  $(MDC) -o README.html README.md ; \
+readme: ; \
+  $(MDC) -o README.html README.md
+
+schedule: ; \
   $(MDC) -o schedule.html schedule.md
 
 clean: ; rm *.html
