@@ -211,7 +211,7 @@ for presentation and moderation.
     1985
 
     -   Brian C. Smith, [Limits of Correctness in
-        Computers](Articiles/Brian-C-Smith_LimitsOfCorrectnessInComputers_1993.pdf),
+        Computers](Articles/Brian-C-Smith_LimitsOfCorrectnessInComputers_1993.pdf),
         1993
 
 -   Shane Markstrum, [Staking Claims: A History of Programming Language Design
