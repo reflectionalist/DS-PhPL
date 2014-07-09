@@ -103,8 +103,8 @@ for presentation and moderation.
 <p>Discussion Leader: Willi</p></li>
 </ul>
 </dd>
-<dt>2014-07-09 (to happen)</dt>
-<dd><p>The article to discuss: Brian C. Smith, <a href="Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf">The Limits of Correctness</a>, 1985</p>
+<dt>2014-07-09</dt>
+<dd><p>The article discussed: Brian C. Smith, <a href="Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf">The Limits of Correctness</a>, 1985</p>
 <p>Discussion Leader: Yi</p>
 </dd>
 <dt>2014-07-16 (to happen)</dt>

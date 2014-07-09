@@ -93,9 +93,9 @@
  
         Discussion Leader: Willi
 
-2014-07-09 (to happen)
+2014-07-09
 
-:   The article to discuss: Brian C. Smith, [The Limits of
+:   The article discussed: Brian C. Smith, [The Limits of
     Correctness](Articles/Brian-C-Smith_TheLimitsOfCorrectness_1985.pdf), 1985
 
     Discussion Leader: Yi
