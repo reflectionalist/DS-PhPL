@@ -32,8 +32,8 @@
 
 2014-05-21
 
-:   The artitle discussed: Raymond Turner, [Towards a Programming Language
-    Ontology](Articles/Raymond-Turner_TowardsAProgrammingLanguageOntology_2007.pdf),
+:   The artitle discussed: Raymond Turner, Amnon Eden, [Towards a Programming Language
+    Ontology](Articles/Raymond-Turner_Amnon-Eden_TowardsAProgrammingLanguageOntology_2007.pdf),
     2007
 
     Discussion Leader: Willi
@@ -100,9 +100,9 @@
 
     Discussion Leader: Yi
 
-2014-07-16 (to happen)
+2014-07-16 (last session)
 
-:   The article to discuss: Tomas Petricek, [What Can Programming Language
+:   The article discussed: Tomas Petricek, [What Can Programming Language
     Research Learn from the Philosophy of
     Science](Articles/Tomas-Petricek_WhatCanProgrammingLanguageResearchLearnFromThePhilosophyOfScience_2014.pdf),
     2014
